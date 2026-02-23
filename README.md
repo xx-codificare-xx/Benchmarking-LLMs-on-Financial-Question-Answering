@@ -73,15 +73,15 @@ All models are evaluated with a standardized prompt template to ensure fairness.
 ├── notebooks/
 │   └── 01_prelim_results.ipynb # for exploratory analysis / plotting
 ├── results/
+│   └── gpt4_mini10k_raw.csv    # raw model outputs
+└── README.md
+
+```
 
 ---
 
 ## How To Run
 
-'''
+```
 pip install -r requirements.txt
-'''
-
-
-│   └── gpt4_mini10k_raw.csv    # raw model outputs
-└── README.md
+```
