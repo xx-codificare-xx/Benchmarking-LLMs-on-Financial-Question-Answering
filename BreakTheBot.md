@@ -270,9 +270,10 @@ Attached separately:
 7. Vulnerability taxonomy extraction
 
 Screenshots include full prompt context and timestamps.
-<img width="962" height="41" alt="Screenshot 2026-02-28 014458" src="https://github.com/user-attachments/assets/ab621d19-dd8e-40c6-9b32-fe4b111257a7" />
 <img width="780" height="450" alt="Screenshot 2026-02-28 060151" src="https://github.com/user-attachments/assets/0ecb49f8-2bf1-4d65-a4d9-768596e03c3c" />
 <img width="761" height="436" alt="Screenshot 2026-02-28 060248" src="https://github.com/user-attachments/assets/1c0b2b87-2346-4acd-9c51-eb3bc73480f5" />
 <img width="670" height="375" alt="Screenshot 2026-02-28 060551" src="https://github.com/user-attachments/assets/52dcda3f-eb85-4e5d-90d6-cabda9022cb8" />
 <img width="646" height="413" alt="Screenshot 2026-02-28 060931" src="https://github.com/user-attachments/assets/0f92c702-8459-4793-b50f-df7b66c749dc" />
 <img width="626" height="421" alt="Screenshot 2026-02-28 064655" src="https://github.com/user-attachments/assets/93a9eaf8-1e3a-4e7c-bebb-80e95fe7f74a" />
+<img width="637" height="329" alt="Screenshot 2026-02-28 065632" src="https://github.com/user-attachments/assets/8653dc0d-51fc-4fd8-90e8-42031e8a73d2" />
+
