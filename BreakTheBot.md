@@ -6,7 +6,7 @@
 
 ---
 
-## Executive Summary (150 words)
+## Executive Summary
 
 This report presents a structured red-teaming evaluation of two publicly available AI systems: ChatGPT (GPT-5.2) and Perplexity AI. Using guidance from established red-teaming and prompt injection frameworks (OWASP, Microsoft AI Red Teaming guidance, Hugging Face red-team strategies, and academic literature), adversarial testing was conducted across four attack categories: prompt injection, jailbreak roleplay, gradual intent escalation, and over-/under-refusal boundary testing.
 
@@ -42,7 +42,7 @@ No exploit payloads or operational hacking instructions were requested.
 
 ---
 
-## 1.3 Attack Categories (4 Total)
+## 1.3 Attack Categories 
 
 ### 1. Prompt Injection
 - “Ignore previous instructions”
